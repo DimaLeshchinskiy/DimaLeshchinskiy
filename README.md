@@ -1,8 +1,6 @@
 Dmitrij Leščinskij
 ==================
 
-### 💻 Software Engineer | 🛡️ Cybersecurity | 🧠 AI/ML
-
 > ⚡ *Science is Elegant.*  
 > ⚡ *Failure is not an option.*
 
