@@ -1,8 +1,11 @@
-Dmitrij Leščinskij
-==================
+🎯 Principles
+-------------
 
-> ⚡ *Science is Elegant.*  
-> ⚡ *Failure is not an option.*
+> #### 🔬 *"Science is Elegant."*  
+> — Dr. Xeno, *Dr. STONE*
+> 
+> #### 🚀 *"Failure is not an option."*  
+> — Gene Kranz, *NASA Flight Director*
 
 👨‍💻 About Me
 -----------
