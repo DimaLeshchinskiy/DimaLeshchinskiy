@@ -96,5 +96,3 @@ Currently pursuing a Bachelor's degree in Cybersecurity with a concentrated focu
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DimaLeshchinskiy&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaLeshchinskiy&layout=compact&theme=radical)
-
-© 2025 Dmitrij Leščinskij
