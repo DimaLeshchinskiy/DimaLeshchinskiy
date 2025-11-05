@@ -91,6 +91,7 @@ Currently pursuing a Bachelor's degree in Cybersecurity with a concentrated focu
 📊 GitHub Stats
 ---------------
 
-![Dmitrij's GitHub stats](https://github-readme-stats-gamma-liard.vercel.app/api?username=DimaLeshchinskiy&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats-gamma-liard.vercel.app/api/top-langs/?username=DimaLeshchinskiy&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats-gamma-liard.vercel.app/api?username=DimaLeshchinskiy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=percentile" />
+  <img src="https://github-readme-stats-gamma-liard.vercel.app/api/top-langs/?username=DimaLeshchinskiy&layout=compact&theme=dark&include_all_commits=true&count_private=true&hide=css" />
+</div>
