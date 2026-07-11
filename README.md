@@ -20,6 +20,21 @@ I enjoy building systems that connect software with the real world—from enterp
 
 ---
 
+## Core Expertise
+
+- Backend Architecture
+- Distributed Systems
+- Enterprise Software
+- Robotics & ROS2
+- Embedded Systems
+- Computer Vision
+- Artificial Intelligence
+- Networking
+- Cybersecurity
+- Quantum Computing
+
+---
+
 # 🛠️ Tech Stack
 
 ## Backend Development
@@ -62,6 +77,7 @@ I enjoy building systems that connect software with the real world—from enterp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -199,6 +215,6 @@ Faculty of Information Technology
 
 <img src="https://github-readme-stats-gamma-liard.vercel.app/api?username=DimaLeshchinskiy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=percentile"/>
 
-<img src="https://github-readme-stats-gamma-liard.vercel.app/api/top-langs/?username=DimaLeshchinskiy&layout=compact&theme=dark&include_all_commits=true&count_private=true&hide=css,gcode"/>
+<img src="https://github-readme-stats-gamma-liard.vercel.app/api/top-langs/?username=DimaLeshchinskiy&layout=compact&theme=dark&include_all_commits=true&count_private=true&hide=css,gcode,G-code"/>
 
 </div>
